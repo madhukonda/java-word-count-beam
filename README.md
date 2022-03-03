@@ -1,6 +1,6 @@
 # java-word-count-beam
 
-## A sample wordcount eample pipeline using apache beam Java SDK
+## A sample wordcount eXample pipeline using apache beam Java SDK
 
 ## Checking java version
 #### java --version
